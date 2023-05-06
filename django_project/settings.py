@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ["*"] # new
 
 LOGIN_REDIRECT_URL = "home"
 LOGOUT_REDIRECT_URL = "home"
-CSRF_TRUSTED_ORIGINS = ['https://web-production-a344.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ["https://web-production-44bf.up.railway.app"]
 
 
 # Application definition
